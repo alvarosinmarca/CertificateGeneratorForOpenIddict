@@ -5,3 +5,5 @@ Change the lines 3-14 in Program.cs and run
 This generate:
 - Encryption.pfx
 - Signature.pfx
+
+Help: https://github.com/openiddict/openiddict-core/issues/976
