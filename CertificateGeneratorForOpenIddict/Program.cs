@@ -10,7 +10,7 @@ TypeCertificate.Encryption,
 var configSignature = new Config(
 TypeCertificate.Signature,
 "CN=CompanyName.ProjectName",
-"ContrasenaSuperChunga",
+"SecretPassword",
 @"C:\Certificates"
 );
 
